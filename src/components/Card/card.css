@@ -1,0 +1,21 @@
+@import 'tailwindcss';
+
+.Card {
+  font-family: "Freckle Face", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.Card:hover img {
+  transform: scale(1.05);
+
+}
+img{
+    transition: all 0.2s ease-in-out;
+}
+.Card:hover .Ctext {
+  opacity: 1;
+}
+.Ctext{
+    transition: opacity 0.2s ease-in-out;   
+}
