@@ -4,7 +4,7 @@
 1. **Clone the repository:**
    ```sh
    git clone <your-repo-url>
-   cd First-app
+   cd AFK-Tribe
    ```
 2. **Install dependencies:**
    ```sh
